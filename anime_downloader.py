@@ -99,14 +99,5 @@ for i in download_links:
 # 	print('Completed downloading', file_names[i], '\n')	
 
 
-"""
-UPDATE
-	* check for existing file and skip downloading it
-	* provide an option to select the video quality
-	*
-	* downloading videos in chrome
-"""
-
-
 
 
